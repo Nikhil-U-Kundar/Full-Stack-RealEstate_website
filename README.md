@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our full-stack real estate website offers a seamless user experience, combining HTML, CSS, and JavaScript for a responsive frontend, and MongoDB and Node.js for a robust backend.
+Our full-stack real estate website offers a seamless user experience, combining HTML, CSS, and JavaScript for a  frontend, and MongoDB and Node.js for a robust backend.
 
 ## Features
 
@@ -13,7 +13,15 @@ Our full-stack real estate website offers a seamless user experience, combining 
 - **Responsive Design**: Smooth performance across desktops, tablets, and smartphones.
 - **Enhanced Interactivity**: Real-time chat support, property comparison tools, and personalized recommendations.
 
-## Run the Project
+
+ Here are the key data structures used in the project:
+
+Arrays: Used for storing lists of items such as user information, property listings, search results, and messages in real-time chat.
+Objects: Used to represent entities such as users, properties, and chat messages, encapsulating relevant data and methods.
+
+Maps: Used for efficient key-value pair storage, such as caching frequently accessed data or mapping user IDs to session data.
+
+Trees: Used for hierarchical data, like property categories or user roles.
 
 To run the project locally, use:
 
